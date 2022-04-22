@@ -16,7 +16,7 @@
           href="https://forum.vuejs.org"
           target="_blank"
         >
-          Forum +远程仓库+本地
+          Forum +远程仓库+本地+分支改动
         </a>
       </li>
       <li>
